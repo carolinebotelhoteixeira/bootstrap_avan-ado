@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 36px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+img {
+    height: 700px;
+}
+
+.row {
+    justify-content: space-around;
+    margin-top: 36px;
+}
+
+.card  {
+    width: 300px;
+    height: 200px;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    line-height: 40px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(57, 180, 57);
+}
