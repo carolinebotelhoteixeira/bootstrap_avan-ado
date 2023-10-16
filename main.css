@@ -92,10 +92,11 @@ img {
     }
 
     .card-body {
-        width: 100%;
+        width: 200%;
     }
 
-    .card-text {
-        justify-content: center;
+    .btn {
+        width: 200%;
+        margin-bottom: 30%;
     }
 }
